@@ -30,7 +30,7 @@ public class MainActivity extends AppCompatActivity {
     private Boolean bool=false;
     private EditText edit;
     private String sum="0";
-    //
+    ////
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
