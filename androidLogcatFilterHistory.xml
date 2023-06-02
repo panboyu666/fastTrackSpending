@@ -1,0 +1,9 @@
+<application>
+  <component name="AndroidLogcatFilterHistory">
+    <option name="nonFavorites">
+      <list>
+        <option value="package:tw.com.myPanboyu.japanesecurrencyconverter" />
+      </list>
+    </option>
+  </component>
+</application>
