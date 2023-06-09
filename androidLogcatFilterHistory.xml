@@ -3,6 +3,7 @@
     <option name="mostRecentlyUsed" value="my123" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.yu.bo.pan.lazyfinances" />
         <option value="my123" />
         <option value="package" />
         <option value="package my123" />
